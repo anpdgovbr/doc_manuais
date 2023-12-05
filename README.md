@@ -9,7 +9,7 @@ Este manual fornece orientações detalhadas para usuários externos que interag
 
 ## Conteúdo
 
-- [Manual do Usuário Externo do SEI - Versão 1.0 (PDF)](./manuais/Manual_Usuário_Externo_SEI)
+- [Manual do Usuário Externo do SEI - Versão 1.0 (PDF)](https://github.com/anpdgovbr/doc_manuais/raw/main/manuais/Manual_Usua%CC%81rio_Externo_SEI.pdf)
 
 ## Como Contribuir
 
