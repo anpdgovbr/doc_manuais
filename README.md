@@ -9,7 +9,7 @@ Este manual fornece orientações detalhadas para usuários externos que interag
 
 ## Conteúdo
 
-- [Manual do Usuário Externo do SEI - Versão 1.0 (PDF)](./manuais/20231205_Manual do Usuário Externo do SEI.pdf)
+- [Manual do Usuário Externo do SEI - Versão 1.0 (PDF)](./manuais/20231205_Manual%20do%20Usua%CC%81rio%20Externo%20do%20SEI.pdf)
 
 ## Como Contribuir
 
